@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialTabs.iml" filepath="$PROJECT_DIR$/MaterialTabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaggeredGridView/StaggeredGridView.iml" filepath="$PROJECT_DIR$/StaggeredGridView/StaggeredGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymateraildesignappcompat/mymateraildesignappcompat.iml" filepath="$PROJECT_DIR$/mymateraildesignappcompat/mymateraildesignappcompat.iml" />
+    </modules>
+  </component>
+</project>
+
